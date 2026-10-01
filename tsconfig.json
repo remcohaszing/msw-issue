@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "module": "preserve",
+    "noEmit": true,
+    "skipLibCheck": true,
+    "target": "esnext",
+    "types": ["msw/vite/client"]
+  }
+}
